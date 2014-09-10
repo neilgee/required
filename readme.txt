@@ -32,7 +32,7 @@ Pattern matching and error mark up can be found here - http://ericleads.com/h5va
 
 For email input pattern validation add a "h5-email" class to the input element.
 
-The script is minified set to load in the footer.
+The script is minified and set to load in the footer.
 
 
 
